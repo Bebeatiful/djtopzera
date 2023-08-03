@@ -1,0 +1,42 @@
+body{
+    background-size: cover;
+}
+.Grande{
+    font-size: 45px;
+    color: aliceblue;
+    background-color: rgb(3, 3, 53);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+
+}
+.Medio{
+    font-size: 24px;
+}
+.volume{
+    float: left;
+    
+}
+.velo{
+    float: right;
+   
+}
+.pequeno{
+    font-size: 25px;
+    font-family: 'Times New Roman', Times, serif;
+    color: aliceblue;
+    background-color: rgb(3, 3, 53);
+    border-radius: 40px;
+}
+.imagi{
+    border-radius: 150px;
+    width: 250px;
+    height: 250px;
+}
+.butão{
+    color: aliceblue;
+    background-color: rgb(3, 3, 53);
+    font-size: 20px;
+    border-radius: 20px;
+}
+canvas{
+    margin-top: 150px;
+}
